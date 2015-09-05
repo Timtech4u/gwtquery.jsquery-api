@@ -1,0 +1,1 @@
+gwtquery.jsquery-api
